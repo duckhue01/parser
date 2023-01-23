@@ -1,4 +1,4 @@
-module github.com/duckhue01/parsing
+module github.com/duckhue01/parser
 
 go 1.19
 
