@@ -1,2 +1,8 @@
-github.com/duckhue01/lexer v0.0.0-20230123172723-5fd4e92a14ba h1:ouL99aMdz//3Xfku57Uda8vAOIyoSCRrUqQhPpPIgNU=
-github.com/duckhue01/lexer v0.0.0-20230123172723-5fd4e92a14ba/go.mod h1:6QI11/vBZNIT9vVdZUyXnv5TvbwC1PJWwr8YrNMKFy4=
+github.com/duckhue01/lexer v0.0.0-20230204095052-23b6189ea864 h1:mIJVmzAzccbl9NKbfMIKbyEgnvEJTZhL5bKxmKIjwvM=
+github.com/duckhue01/lexer v0.0.0-20230204095052-23b6189ea864/go.mod h1:RhJXse5z+8JT+KwvOO9ArBswhQj7p1OvUXl2GmfSAfU=
+github.com/duckhue01/lexer v1.0.0 h1:6D+W3+t1PweN82savD5/ROHwiituGnLVakFjgbZJxnA=
+github.com/duckhue01/lexer v1.0.0/go.mod h1:RhJXse5z+8JT+KwvOO9ArBswhQj7p1OvUXl2GmfSAfU=
+github.com/duckhue01/lexer v1.0.1 h1:n50Vt1MqJL3bsVrJwnET1G4COG3EfGke6x9oG3Mvv+o=
+github.com/duckhue01/lexer v1.0.1/go.mod h1:RhJXse5z+8JT+KwvOO9ArBswhQj7p1OvUXl2GmfSAfU=
+github.com/google/go-cmp v0.5.9 h1:O2Tfq5qg4qc4AmwVlvv0oLiVAGB7enBSJ2x2DqQFi38=
+github.com/google/go-cmp v0.5.9/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
